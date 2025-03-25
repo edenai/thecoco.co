@@ -1,32 +1,32 @@
 <img src="app/assets/DALL·E%202025-03-25%2020.36.13%20-%20A%20playful,%20satirical%20logo%20representing%20an%20application%20that%20humorously%20'roasts'%20GitHub.%20Incorporate%20cartoonish%20flames%20around%20a%20GitHub-like%20cat%20silhouet.jpg" width="300" alt="Coco Logo">
 
-# 🚀 Project Coco
+# 🔥 COCO
 
-✨ **A powerful Python application for intelligent repository analysis with GitHub integration and AI insights**
+✨ **A brutally honest AI that roasts your GitHub code with savage yet constructive feedback**
 
 ---
 
-## 🌟 Features
+## 🌟 Roasting Features
 
-🔹 **GitHub Integration**  
-   - Repository analysis and management  
-   - Automated issue tracking  
-   - Pull request insights  
+🔥 **Savage Code Reviews**  
+   - Brutally honest feedback on your worst code  
+   - Finds and mocks common anti-patterns  
+   - Rates your code on a "spiciness" scale  
 
-🔹 **AI-Powered Analysis**  
-   - LLM-driven code reviews  
-   - Automated documentation generation  
-   - Intelligent recommendations  
+🔪 **Pull Request Roasts**  
+   - Hilarious commentary on questionable PRs  
+   - Detects and calls out lazy commits  
+   - Generates meme-worthy reactions  
 
-🔹 **Modern API**  
-   - RESTful endpoints  
-   - Swagger documentation  
-   - JWT authentication  
+💀 **Vulnerability Shaming**  
+   - Publicly shames security flaws  
+   - Creates "Wall of Shame" for bad practices  
+   - Suggests fixes with sarcastic tone  
 
-🔹 **Modular Architecture**  
-   - Clean separation of concerns  
-   - Easy to extend  
-   - Well-tested components  
+🤖 **AI-Powered Burns**  
+   - Custom roasts based on your coding style  
+   - Compares your code to famous disasters  
+   - Generates savage one-liners for bad code  
 
 ---
 
@@ -97,15 +97,3 @@ app/
 ├── services/     # ⚡ Business logic
 └── utils/        # 🧰 Helper functions
 ```
-
----
-
-## 📜 License
-
-MIT Licensed - See [LICENSE](LICENSE) for details.
-
----
-
-![GitHub stars](https://img.shields.io/github/stars/yourusername/coco?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/coco?style=social)
-![Python Version](https://img.shields.io/badge/python-3.9%2B-blue)
