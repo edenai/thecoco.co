@@ -1,4 +1,4 @@
-![Coco Logo](app/assets/DALL·E%202025-03-25%2020.36.13%20-%20A%20playful,%20satirical%20logo%20representing%20an%20application%20that%20humorously%20'roasts'%20GitHub.%20Incorporate%20cartoonish%20flames%20around%20a%20GitHub-like%20cat%20silhouet.jpg)
+<img src="app/assets/DALL·E%202025-03-25%2020.36.13%20-%20A%20playful,%20satirical%20logo%20representing%20an%20application%20that%20humorously%20'roasts'%20GitHub.%20Incorporate%20cartoonish%20flames%20around%20a%20GitHub-like%20cat%20silhouet.jpg" width="300" alt="Coco Logo">
 
 # 🚀 Project Coco
 
